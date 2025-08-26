@@ -43,7 +43,6 @@ State → Analyze state-wise election data.
 ⚙️ Tools & Technologies
 Data Visualization: Power BI 
 Backend Scripting: Python (Pandas, NumPy, Matplotlib)
-Database (Optional): SQL for structured data queries
 Version Control: Git & GitHub
 
 🌟 Insights from the Dashboard
